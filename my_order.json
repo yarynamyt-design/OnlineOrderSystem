@@ -1,9 +1,9 @@
 {
     "items": [
         {
-            "name": "pc",
-            "price": 15000.0,
-            "quantity": 3
+            "name": "chocolat",
+            "price": 5.0,
+            "quantity": 90
         }
     ],
     "orderDate": "2026-04-16",
