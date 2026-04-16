@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "name": "pc",
+            "price": 15000.0,
+            "quantity": 3
+        }
+    ],
+    "orderDate": "2026-04-16",
+    "orderID": 1,
+    "status": 0
+}
